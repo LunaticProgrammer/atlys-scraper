@@ -1,0 +1,5 @@
+dump.rdb
+products.json
+__pycache__
+/venv
+*/__pycache__
